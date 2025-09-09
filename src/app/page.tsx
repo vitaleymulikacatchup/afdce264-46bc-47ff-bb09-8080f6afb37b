@@ -14,6 +14,7 @@ export default function Home() {
         logoSrc='/images/logo.svg'
         logoAlt='PawCoin'
         buttonText='Get Started'
+        onButtonClick={() => { /* Define button action */ }}
       />
       <div id='hero' data-section='hero'>
         <BillboardHero title='Welcome to PawCoin' subtitle='The Next Big Meme Coin!' />
