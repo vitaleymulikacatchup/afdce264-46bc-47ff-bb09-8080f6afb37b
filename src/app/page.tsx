@@ -13,7 +13,7 @@ export default function Home() {
       <NavbarStyleMinimal
         logoSrc='/images/logo.svg'
         logoAlt='PawCoin'
-        buttonText='Buy PawCoin'
+        buttonText='Get Started'
       />
       <div id='hero' data-section='hero'>
         <BillboardHero title='Welcome to PawCoin' subtitle='The Next Big Meme Coin!' />
